@@ -1,0 +1,11 @@
+.navbar {
+  background-color: #999;
+  padding: 1rem 3rem;
+}
+
+.nav-menu {
+  cursor: pointer;
+  display: flex;
+  list-style: none;
+  gap: 1rem;
+}

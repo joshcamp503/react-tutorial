@@ -1,0 +1,21 @@
+.counter {
+  display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 1rem;
+}
+
+button {
+  width: 50px;
+}
+
+.count {
+  background-color: rgba(127, 229, 255, 0.705);
+  border: solid 1px black;
+  border-radius: 16px;
+  display: flex;
+    align-items: center;
+    justify-content: center;
+  width: 80px;
+  height: 80px;
+}
